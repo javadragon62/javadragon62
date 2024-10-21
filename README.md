@@ -1,5 +1,5 @@
 - Greetings, I’m j@va_Dr@g0N.
-- I can markup HTML and CSS.
+- I am an intermediate in HTML and CSS.
 - I am currently learning how to program JavaScript.
 - I am working on a project and I will create a repository for it soon.
 
